@@ -1,5 +1,5 @@
 var port = 8080;
-var db_url = "mongodb://localhost/mean_seed";
+var db_url = "mongodb://localhost/db_name";
 
 module.exports={
 	port:port,
